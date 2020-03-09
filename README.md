@@ -42,5 +42,6 @@ For each challenge listed below, there is a corresponding branch that will have 
     * gets the tweet text from the `public/tweets/index.html` form (*Hint: the variable name of the form tweet text is `tweet`*)
     * posts a Tweet with that text
     * only sends the Tweet and returns 200 OK if the tweet is at least 3 characters long
+    * (challenge) redirects to the Twitter bot [http://twitter.com/bog_bot](http://twitter.com/bog_bot)
 
 You're done! You've built the Twitter bot.
