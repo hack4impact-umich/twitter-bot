@@ -1,5 +1,7 @@
 # Bootcamp Twitter Bot
 
+![Bits of Good](/public/bog_logo.svg)
+
 This repo is used by the Bits of Good Bootcamp to build a Twitter bot that demonstrates important concepts related to Node.js, APIs, and database technologies used by Bits of Good project teams.
 
 Learn more about Bits of Good and our Bootcamp at [bitsofgood.org](https://bitsofgood.org)!
